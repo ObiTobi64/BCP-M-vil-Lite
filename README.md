@@ -2,7 +2,7 @@
 
 App de banca móvil (no oficial / proyecto de práctica) inspirada en el app del BCP, hecha 100% en **Jetpack Compose**. Incluye login, home con productos y movimientos, flujo completo de transferencias, detalle de tarjeta de crédito, perfil y soporte de tema claro/oscuro e idioma español/inglés.
 
-> ⚠️ Proyecto educativo/de ejercicios. No está afiliado al Banco de Crédito del Perú (BCP). Todos los datos (saldos, tarjetas, usuarios) son **mock**, no hay backend real.
+> ⚠️ Proyecto de prueba ejercicios. No está afiliado al Banco de Crédito del Perú (BCP). Todos los datos (saldos, tarjetas, usuarios) son **mock**, no hay backend real.
 
 ## Stack técnico
 
@@ -17,7 +17,7 @@ No usa Hilt, Retrofit ni Room: todo el "backend" es un objeto de datos mock (`Mo
 
 ## Arquitectura
 
-Cada pantalla sigue el patrón **MVVM**:
+Cada pantalla sigue similar al patrón **MVVM**:
 
 ```
 ui/<feature>/
