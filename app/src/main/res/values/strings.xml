@@ -1,0 +1,178 @@
+﻿<resources>
+    <string name="app_name">BCP Bolivia</string>
+    <!-- Splash Text-->
+    <string name="splash_tagline">Tu banco digital, siempre contigo</string>
+    <!-- Onboarding Screen Texts-->
+    <string name="onboarding_title_1">Banca al alcance de tu mano</string>
+    <string name="onboarding_desc_1">Accede a todos tus productos y servicios financieros desde tu smartphone, en cualquier momento y lugar.</string>
+    <string name="onboarding_title_2">Tu seguridad es nuestra prioridad</string>
+    <string name="onboarding_desc_2">Protegemos tus operaciones con tecnologia de encriptación de ultima generación y autenticación biométrica.</string>
+    <string name="onboarding_title_3">Todo lo que necesitas, en un solo lugar</string>
+    <string name="onboarding_desc_3">Transferencias, pagos, recargas y mucho mas. Simplifica tu vida financiera con BCP Bolivia.</string>
+    <string name="onboarding_next">Siguiente</string>
+    <string name="onboarding_skip">Omitir</string>
+    <string name="onboarding_start">Comenzar</string>
+    <!-- Login Screen Text-->
+    <string name="login_welcome">Bienvenido a BCP Bolivia</string>
+    <string name="login_title">Iniciar sesión</string>
+    <string name="login_username">Usuario</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_button">Ingresar</string>
+    <string name="login_forgot_password">Olvide mi contraseña?</string>
+    <string name="login_biometric">Ingresar con huella</string>
+    <string name="login_show_password">Mostrar contraseña</string>
+    <string name="login_hide_password">Ocultar contraseña</string>
+    <!-- Textos de error de login-->
+    <string name="error_empty_username">El nombre del usuario es requerido</string>
+    <string name="error_empty_password">La contraseña es requerida</string>
+    <string name="error_short_username">Minimo 5 caracteres</string>
+    <string name="error_short_password">Minimo 8 caracteres</string>
+    <string name="error_invalid_credentials">Usuario o contraseña incorrectos</string>
+    <!-- Dialogo biométrico -->
+    <string name="biometric_dialog_title">Autenticación biométrica</string>
+    <string name="biometric_dialog_message">Coloca tu huella digital en el sensor para acceder a tu cuenta de forma rapida y segura.</string>
+    <string name="biometric_dialog_ok">Entendido</string>
+    <!-- Textos de recuperación de contraseña -->
+    <string name="recovery_title">Recuperar contraseña</string>
+    <string name="recovery_subtitle">Ingresa tu correo electronico y te enviaremos las instrucciones para restablecer tu contraseña.</string>
+    <string name="recovery_email_label">Correo electrónico</string>
+    <string name="error_empty_email">El correo es requerido</string>
+    <string name="error_invalid_email">Ingresa un correo valido</string>
+    <string name="recovery_button">Enviar instrucciones</string>
+    <string name="recovery_success_title">Correo enviado!</string>
+    <string name="recovery_success_message">Hemos enviado las instrucciones de recuperación a %1$s. Revisa tu bandeja de entrada.</string>
+    <string name="recovery_back_to_login">Volver al inicio de sesión</string>
+    <string name="back">Atrás</string>
+    <!-- Pantalla inicial -->
+    <string name="action_toggle_theme_to_dark">Cambiar a tema oscuro</string>
+    <string name="action_toggle_theme_to_light">Cambiar a tema claro</string>
+    <string name="action_toggle_language">Cambiar idioma</string>
+    <string name="home_greeting">Hola, %1$s</string>
+    <string name="home_subgreeting">Que necesitas hoy?</string>
+    <string name="home_notifications">Notificaciones</string>
+    <string name="home_products_title">Mis productos</string>
+    <string name="home_quick_access_title">Accesos rapidos</string>
+    <string name="home_movements_title">Ultimos movimientos</string>
+    <!-- Navegacion bottom -->
+    <string name="tab_inicio">Inicio</string>
+    <string name="tab_operaciones">Operaciones</string>
+    <string name="tab_tarjetas">Tarjetas</string>
+    <string name="tab_mas">Mas</string>
+    <!-- Accesos rapidos -->
+    <string name="qa_transfers">Transferencias</string>
+    <string name="qa_pay_services">Pagar servicios</string>
+    <string name="qa_qr">QR Simple</string>
+    <string name="qa_yape">Yape</string>
+    <string name="qa_recharges">Recargas</string>
+    <string name="qa_token">Token digital</string>
+
+    <!-- Botones comunes -->
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="dialog_confirm">Confirmar</string>
+    <string name="coming_soon_title">Proximamente</string>
+    <string name="coming_soon_message">Esta función estara disponible pronto en esta demo.</string>
+
+    <!-- Tab de operaciones -->
+    <string name="operations_title">Operaciones</string>
+    <string name="operations_subtitle">Que operacion deseas realizar?</string>
+
+    <!-- Tab tarjeta -->
+    <string name="cards_title">Mis tarjetas</string>
+    <string name="cards_see_detail">Ver detalle</string>
+
+    <!-- Tab más -->
+    <string name="more_title">Más</string>
+    <string name="more_profile_item">Mi perfil</string>
+    <string name="more_settings_item">Configuración</string>
+    <string name="more_help_item">Ayuda</string>
+    <string name="more_logout_item">Cerrar sesión</string>
+
+    <!-- Transferencias -->
+    <string name="transfer_title">Transferencias</string>
+    <string name="transfer_type_title">Selecciona el tipo de transferencia</string>
+    <string name="transfer_type_between_own">Entre mis cuentas</string>
+    <string name="transfer_type_between_own_desc">Mueve dinero entre tus propias cuentas BCP</string>
+    <string name="transfer_type_to_bcp">A otro BCP</string>
+    <string name="transfer_type_to_bcp_desc">Transfiere a una cuenta de otro cliente BCP</string>
+    <string name="transfer_type_interbank">Interbancaria</string>
+    <string name="transfer_type_interbank_desc">Transfiere a una cuenta de otro banco</string>
+    <string name="transfer_type_yape">Yape</string>
+    <string name="transfer_type_yape_desc">Envia dinero al instante usando un número de celular</string>
+    <string name="transfer_form_title">Datos de la transferencia</string>
+    <string name="transfer_origin_account">Cuenta origen</string>
+    <string name="transfer_select_origin">Selecciona una cuenta</string>
+    <string name="transfer_beneficiary">Beneficiario</string>
+    <string name="transfer_beneficiary_hint">Nombre o número de cuenta del beneficiario</string>
+    <string name="transfer_frequent_beneficiaries">Selecciona de frecuentes</string>
+    <string name="transfer_amount">Monto</string>
+    <string name="transfer_currency">Moneda</string>
+    <string name="transfer_concept">Concepto</string>
+    <string name="transfer_concept_hint">Ej. Pago de alquiler</string>
+    <string name="transfer_glosa">Glosa (opcional)</string>
+    <string name="transfer_glosa_hint">Mensaje para el beneficiario</string>
+    <string name="transfer_continue">Continuar</string>
+    <string name="transfer_available_balance">Saldo disponible: %1$s %2$s</string>
+    <string name="transfer_confirm_title">Resumen de la transferencia</string>
+    <string name="transfer_confirm_subtitle">Verifica los datos antes de continuar</string>
+    <string name="transfer_confirm_type">Tipo</string>
+    <string name="transfer_confirm_origin">Origen</string>
+    <string name="transfer_confirm_beneficiary">Beneficiario</string>
+    <string name="transfer_confirm_concept">Concepto</string>
+    <string name="transfer_confirm_glosa">Glosa</string>
+    <string name="transfer_confirm_amount">Monto a transferir</string>
+    <string name="transfer_authorize">Autorizar transferencia</string>
+    <string name="transfer_receipt_title">Comprobante</string>
+    <string name="transfer_success_message">Transferencia realizada con exito</string>
+    <string name="transfer_operation_number">N de operacion</string>
+    <string name="transfer_date">Fecha y hora</string>
+    <string name="transfer_amount_label">Monto transferido</string>
+    <string name="transfer_itf_label">ITF</string>
+    <string name="transfer_total_label">Total debitado</string>
+    <string name="transfer_share">Compartir</string>
+    <string name="transfer_back_home">Volver al inicio</string>
+    <string name="error_insufficient_balance">Saldo insuficiente en la cuenta origen</string>
+    <string name="error_amount_required">Ingresa un monto valido</string>
+    <string name="error_amount_zero">El monto debe ser mayor a 0</string>
+    <string name="error_beneficiary_required">Ingresa o selecciona un beneficiario</string>
+    <string name="error_concept_required">El concepto es requerido</string>
+    <string name="error_glosa_too_long">Maximo 40 caracteres</string>
+    <string name="error_origin_required">Selecciona una cuenta origen</string>
+
+    <!-- Detalle de tarjeta -->
+    <string name="card_detail_title">Detalle de tarjeta</string>
+    <string name="card_credit_line">Linea de credito</string>
+    <string name="card_total_debt">Deuda total</string>
+    <string name="card_min_payment">Pago minimo</string>
+    <string name="card_cutoff_date">Fecha de corte</string>
+    <string name="card_payment_due_date">Fecha de pago</string>
+    <string name="card_recent_consumptions">Ultimos consumos</string>
+    <string name="card_action_block">Bloquear</string>
+    <string name="card_action_unblock">Desbloquear</string>
+    <string name="card_action_pay">Pagar tarjeta</string>
+    <string name="card_action_view_cvv">Ver CVV</string>
+    <string name="card_cvv_dialog_title">CVV de tu tarjeta</string>
+    <string name="card_cvv_dialog_warning">Por tu seguridad, esta pantalla bloquea las capturas mientras el CVV esta visible.</string>
+    <string name="card_cvv_close">Cerrar</string>
+    <string name="card_block_confirm_title">Bloquear tarjeta</string>
+    <string name="card_block_confirm_message">Estas seguro que deseas bloquear tu tarjeta? Podras desbloquearla luego desde este mismo panel.</string>
+    <string name="card_unblock_confirm_title">Desbloquear tarjeta</string>
+    <string name="card_unblock_confirm_message">Deseas volver a activar tu tarjeta?</string>
+    <string name="card_blocked_badge">Bloqueada</string>
+    <string name="card_pay_confirm_title">Pagar tarjeta</string>
+    <string name="card_pay_confirm_message">Se generara el pago del minimo de %1$s %2$s a tu tarjeta. Deseas continuar?</string>
+    <string name="card_pay_success">¡Pago registrado con exito!</string>
+
+    <!-- Perfil -->
+    <string name="profile_title">Mi perfil</string>
+    <string name="profile_document">Documento</string>
+    <string name="profile_email">Correo</string>
+    <string name="profile_phone">Teléfono</string>
+    <string name="profile_security_section">Seguridad</string>
+    <string name="profile_change_pin">Cambiar PIN</string>
+    <string name="profile_biometric_toggle">Autenticación biométrica</string>
+    <string name="profile_logout">Cerrar sesión</string>
+    <string name="profile_logout_confirm_title">Cerrar sesión</string>
+    <string name="profile_logout_confirm_message">Estás seguro que deseas cerrar tu sesión?</string>
+    <string name="profile_change_pin_dialog_title">Cambiar PIN</string>
+    <string name="profile_change_pin_dialog_message">Esta función estara disponible pronto en esta demo.</string>
+</resources>

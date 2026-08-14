@@ -1,0 +1,169 @@
+<resources>
+    <string name="app_name">BCP Bolivia</string>
+    <string name="splash_tagline">Your digital bank, always with you</string>
+    <string name="onboarding_title_1">Banking at your fingertips</string>
+    <string name="onboarding_desc_1">Access all your financial products and services from your smartphone, anytime and anywhere.</string>
+    <string name="onboarding_title_2">Your security is our priority</string>
+    <string name="onboarding_desc_2">We protect your operations with state-of-the-art encryption technology and biometric authentication.</string>
+    <string name="onboarding_title_3">Everything you need, in one place</string>
+    <string name="onboarding_desc_3">Transfers, payments, top-ups and much more. Simplify your financial life with BCP Bolivia.</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_start">Get Started</string>
+    <string name="login_welcome">Welcome to BCP Bolivia</string>
+    <string name="login_title">Sign in</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Sign In</string>
+    <string name="login_forgot_password">Forgot my password?</string>
+    <string name="login_biometric">Sign in with fingerprint</string>
+    <string name="login_show_password">Show password</string>
+    <string name="login_hide_password">Hide password</string>
+    <string name="error_empty_username">Username is required</string>
+    <string name="error_empty_password">Password is required</string>
+    <string name="error_short_username">Minimum 5 characters</string>
+    <string name="error_short_password">Minimum 8 characters</string>
+    <string name="error_invalid_credentials">Invalid username or password</string>
+    <string name="biometric_dialog_title">Biometric authentication</string>
+    <string name="biometric_dialog_message">Place your fingerprint on the sensor to access your account quickly and securely.</string>
+    <string name="biometric_dialog_ok">Got it</string>
+    <string name="recovery_title">Recover password</string>
+    <string name="recovery_subtitle">Enter your email address and we will send you instructions to reset your password.</string>
+    <string name="recovery_email_label">Email address</string>
+    <string name="error_empty_email">Email is required</string>
+    <string name="error_invalid_email">Enter a valid email address</string>
+    <string name="recovery_button">Send instructions</string>
+    <string name="recovery_success_title">Email sent!</string>
+    <string name="recovery_success_message">We have sent recovery instructions to %1$s. Check your inbox.</string>
+    <string name="recovery_back_to_login">Back to login</string>
+    <string name="back">Back</string>
+    <string name="action_toggle_theme_to_dark">Switch to dark theme</string>
+    <string name="action_toggle_theme_to_light">Switch to light theme</string>
+    <string name="action_toggle_language">Change language</string>
+    <string name="home_greeting">Hello, %1$s</string>
+    <string name="home_subgreeting">What do you need today?</string>
+    <string name="home_notifications">Notifications</string>
+    <string name="home_products_title">My products</string>
+    <string name="home_quick_access_title">Quick access</string>
+    <string name="home_movements_title">Recent activity</string>
+    <string name="tab_inicio">Home</string>
+    <string name="tab_operaciones">Operations</string>
+    <string name="tab_tarjetas">Cards</string>
+    <string name="tab_mas">More</string>
+    <string name="qa_transfers">Transfers</string>
+    <string name="qa_pay_services">Pay services</string>
+    <string name="qa_qr">Simple QR</string>
+    <string name="qa_yape">Yape</string>
+    <string name="qa_recharges">Top-ups</string>
+    <string name="qa_token">Digital token</string>
+
+    <!-- Textos comunes como (Cancelar, Confirmar, Pronto, Esta función estara disponible pronto) -->
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_confirm">Confirm</string>
+    <string name="coming_soon_title">Coming soon</string>
+    <string name="coming_soon_message">This feature will be available soon in this demo.</string>
+
+    <!-- Operaciones tab -->
+    <string name="operations_title">Operations</string>
+    <string name="operations_subtitle">What would you like to do?</string>
+
+    <!-- Tarjeta tab -->
+    <string name="cards_title">My cards</string>
+    <string name="cards_see_detail">See detail</string>
+
+    <!-- Tabs -->
+    <string name="more_title">More</string>
+    <string name="more_profile_item">My profile</string>
+    <string name="more_settings_item">Settings</string>
+    <string name="more_help_item">Help</string>
+    <string name="more_logout_item">Log out</string>
+
+    <!-- Transfers -->
+    <string name="transfer_title">Transfers</string>
+    <string name="transfer_type_title">Select the transfer type</string>
+    <string name="transfer_type_between_own">Between my accounts</string>
+    <string name="transfer_type_between_own_desc">Move money between your own BCP accounts</string>
+    <string name="transfer_type_to_bcp">To another BCP</string>
+    <string name="transfer_type_to_bcp_desc">Transfer to another BCP customer\'s account</string>
+    <string name="transfer_type_interbank">Interbank</string>
+    <string name="transfer_type_interbank_desc">Transfer to an account at another bank</string>
+    <string name="transfer_type_yape">Yape</string>
+    <string name="transfer_type_yape_desc">Send money instantly using a phone number</string>
+    <string name="transfer_form_title">Transfer details</string>
+    <string name="transfer_origin_account">Source account</string>
+    <string name="transfer_select_origin">Select an account</string>
+    <string name="transfer_beneficiary">Beneficiary</string>
+    <string name="transfer_beneficiary_hint">Beneficiary name or account number</string>
+    <string name="transfer_frequent_beneficiaries">Choose from frequent</string>
+    <string name="transfer_amount">Amount</string>
+    <string name="transfer_currency">Currency</string>
+    <string name="transfer_concept">Concept</string>
+    <string name="transfer_concept_hint">E.g. Rent payment</string>
+    <string name="transfer_glosa">Note (optional)</string>
+    <string name="transfer_glosa_hint">Message for the beneficiary</string>
+    <string name="transfer_continue">Continue</string>
+    <string name="transfer_available_balance">Available balance: %1$s %2$s</string>
+    <string name="transfer_confirm_title">Transfer summary</string>
+    <string name="transfer_confirm_subtitle">Check the details before continuing</string>
+    <string name="transfer_confirm_type">Type</string>
+    <string name="transfer_confirm_origin">Source</string>
+    <string name="transfer_confirm_beneficiary">Beneficiary</string>
+    <string name="transfer_confirm_concept">Concept</string>
+    <string name="transfer_confirm_glosa">Note</string>
+    <string name="transfer_confirm_amount">Amount to transfer</string>
+    <string name="transfer_authorize">Authorize transfer</string>
+    <string name="transfer_receipt_title">Receipt</string>
+    <string name="transfer_success_message">Transfer completed successfully</string>
+    <string name="transfer_operation_number">Operation No.</string>
+    <string name="transfer_date">Date and time</string>
+    <string name="transfer_amount_label">Amount transferred</string>
+    <string name="transfer_itf_label">ITF tax</string>
+    <string name="transfer_total_label">Total debited</string>
+    <string name="transfer_share">Share</string>
+    <string name="transfer_back_home">Back to home</string>
+    <string name="error_insufficient_balance">Insufficient balance in the source account</string>
+    <string name="error_amount_required">Enter a valid amount</string>
+    <string name="error_amount_zero">Amount must be greater than 0</string>
+    <string name="error_beneficiary_required">Enter or select a beneficiary</string>
+    <string name="error_concept_required">Concept is required</string>
+    <string name="error_glosa_too_long">Maximum 40 characters</string>
+    <string name="error_origin_required">Select a source account</string>
+
+    <!-- Detalles de la tarjeta -->
+    <string name="card_detail_title">Card detail</string>
+    <string name="card_credit_line">Credit line</string>
+    <string name="card_total_debt">Total debt</string>
+    <string name="card_min_payment">Minimum payment</string>
+    <string name="card_cutoff_date">Cutoff date</string>
+    <string name="card_payment_due_date">Payment due date</string>
+    <string name="card_recent_consumptions">Recent purchases</string>
+    <string name="card_action_block">Block</string>
+    <string name="card_action_unblock">Unblock</string>
+    <string name="card_action_pay">Pay card</string>
+    <string name="card_action_view_cvv">View CVV</string>
+    <string name="card_cvv_dialog_title">Your card\'s CVV</string>
+    <string name="card_cvv_dialog_warning">For your security, this screen blocks screenshots while the CVV is visible.</string>
+    <string name="card_cvv_close">Close</string>
+    <string name="card_block_confirm_title">Block card</string>
+    <string name="card_block_confirm_message">Are you sure you want to block your card? You can unblock it later from this same panel.</string>
+    <string name="card_unblock_confirm_title">Unblock card</string>
+    <string name="card_unblock_confirm_message">Do you want to reactivate your card?</string>
+    <string name="card_blocked_badge">Blocked</string>
+    <string name="card_pay_confirm_title">Pay card</string>
+    <string name="card_pay_confirm_message">The minimum payment of %1$s %2$s will be charged to your card. Continue?</string>
+    <string name="card_pay_success">Payment registered successfully</string>
+
+    <!-- Perfil -->
+    <string name="profile_title">My profile</string>
+    <string name="profile_document">Document</string>
+    <string name="profile_email">Email</string>
+    <string name="profile_phone">Phone</string>
+    <string name="profile_security_section">Security</string>
+    <string name="profile_change_pin">Change PIN</string>
+    <string name="profile_biometric_toggle">Biometric authentication</string>
+    <string name="profile_logout">Log out</string>
+    <string name="profile_logout_confirm_title">Log out</string>
+    <string name="profile_logout_confirm_message">Are you sure you want to log out?</string>
+    <string name="profile_change_pin_dialog_title">Change PIN</string>
+    <string name="profile_change_pin_dialog_message">This feature will be available soon in this demo.</string>
+</resources>

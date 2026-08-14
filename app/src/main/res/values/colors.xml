@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- BCP Bolivia paleta de colores -->
+    <color name="bcp_blue">#FF1F3864</color>
+    <color name="bcp_blue_light">#FF4A6B9E</color>
+    <color name="bcp_blue_dark">#FF0D1E3C</color>
+    <color name="bcp_red">#FFC8102E</color>
+    <color name="bcp_red_light">#FFFF4D5E</color>
+    <color name="bcp_red_dark">#FF8E0019</color>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Escalas de espacios -->
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">12dp</dimen>
+    <dimen name="spacing_lg">16dp</dimen>
+    <dimen name="spacing_xl">20dp</dimen>
+    <dimen name="spacing_xxl">24dp</dimen>
+    <dimen name="spacing_xxxl">32dp</dimen>
+
+    <!-- Curvas de esquinas -->
+    <dimen name="corner_radius_sm">8dp</dimen>
+    <dimen name="corner_radius_md">12dp</dimen>
+    <dimen name="corner_radius_lg">16dp</dimen>
+
+    <!-- Componentes -->
+    <dimen name="button_height">52dp</dimen>
+    <dimen name="icon_size_sm">18dp</dimen>
+    <dimen name="icon_size_md">26dp</dimen>
+    <dimen name="icon_size_lg">44dp</dimen>
+    <dimen name="icon_size_xl">64dp</dimen>
+    <dimen name="icon_size_xxl">80dp</dimen>
+    <dimen name="avatar_size">44dp</dimen>
+    <dimen name="product_card_height">180dp</dimen>
+    <dimen name="quick_access_icon_size">56dp</dimen>
+    <dimen name="logo_width">160dp</dimen>
+    <dimen name="logo_height">80dp</dimen>
+    <dimen name="onboarding_illustration_size">200dp</dimen>
+
+    <!-- Visualizador de la tarjeta -->
+    <dimen name="credit_card_height">210dp</dimen>
+    <dimen name="credit_card_corner_radius">20dp</dimen>
+
+    <!-- Icono del boton de transferencia -->
+    <dimen name="transfer_type_icon_size">48dp</dimen>
+
+    <!-- Boton bar -->
+    <dimen name="bottom_bar_icon_size">24dp</dimen>
+</resources>
